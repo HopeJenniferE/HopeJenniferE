@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @HopeJenniferE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on projects and anything surrounding Tech.
-- 📫 You can reach me @hopejennifer167@gmail.com
+- 👋 Hi, I'm a Cybersecurity Analyst with Software Development skills.
+- 🦾 Python | JavaScript | HTML5/CSS3 | Web Security | Threat Analysis.
+- 🌱 Building secure applications & analyzing cyber threats.
+- 👩🏽‍🎓 MSc Cyber Security | BSc Computer Science.
+- 🌍 Glasgow, Scotland | Open to CyberSec & SWE roles | Open to relocation.
+- 📫 You can reach me @hopejennifer167@gmail.com.
 
 <!---
 HopeJenniferE/HopeJenniferE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
