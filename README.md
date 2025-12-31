@@ -1,8 +1,8 @@
 - 👋 Hi, I'm a Cybersecurity Analyst with Software Development skills.
-- 🦾 Python | JavaScript | HTML5/CSS3 | Web Security | Threat Analysis.
+- 🦾 Python | JavaScript | HTML5/CSS3 | Web Security | Threat Analysis and Monitoring |Incidence Response and Reporting.
 - 🌱 Building secure applications & analyzing cyber threats.
 - 👩🏽‍🎓 MSc Cyber Security | BSc Computer Science.
-- 🌍 Glasgow, Scotland | Open to CyberSec & SWE roles | Open to relocation.
+- 🌍 Glasgow, Scotland | Open to security analyst roles | Open to relocation.
 - 📫 You can reach me @hopejennifer167@gmail.com.
 
 <!---
