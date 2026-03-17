@@ -1,9 +1,10 @@
 - 👋 Hi, I'm a Cybersecurity Analyst with Software Development skills.
-- 🦾 Python | JavaScript | HTML5/CSS3 | Web Security | Threat Analysis and Monitoring |Incidence Response and Reporting.
+- 🫆 SOC Analyst | Secuirty Analyst | Web Secuity Analyst | Threat Analysis and Monitoring |Incidence Response and Reporting.
+- 🦾 Python | JavaScript | HTML5/CSS3.
 - 🌱 Building secure applications & analyzing cyber threats.
 - 👩🏽‍🎓 MSc Cyber Security | BSc Computer Science.
-- 🌍 Glasgow, Scotland | Open to security analyst roles | Open to relocation.
-- 📫 You can reach me @hopejennifer167@gmail.com.
+- 🌍 United Kingdom| Open to security analyst roles | Open to relocation.
+- 📫 You can reach me @jennifer.hopee@outlook.com.
 
 <!---
 HopeJenniferE/HopeJenniferE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
