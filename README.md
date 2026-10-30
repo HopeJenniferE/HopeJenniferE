@@ -4,7 +4,7 @@
 - 🌱 Building secure applications & analyzing cyber threats.
 - 👩🏽‍🎓 MSc Cyber Security | BSc Computer Science.
 - 🌍 United Kingdom| Open to security analyst roles.
-- 📫 You can reach me @jennifer.hopee@outlook.com.
+- 📫 You can reach me.
 
 <!---
 HopeJenniferE/HopeJenniferE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
