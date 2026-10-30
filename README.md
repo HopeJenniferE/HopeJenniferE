@@ -3,7 +3,7 @@
 - 🦾 Python | JavaScript | HTML5/CSS3.
 - 🌱 Building secure applications & analyzing cyber threats.
 - 👩🏽‍🎓 MSc Cyber Security | BSc Computer Science.
-- 🌍 United Kingdom| Open to security analyst roles | Open to relocation.
+- 🌍 United Kingdom| Open to security analyst roles.
 - 📫 You can reach me @jennifer.hopee@outlook.com.
 
 <!---
